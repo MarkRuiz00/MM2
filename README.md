@@ -6,5 +6,9 @@ This material is for educational purposes only, any bad use of it will be on a p
 
 # GAMES SUPPORTED
 
-1. Murder Mystery 2 (Game Link)[https://www.roblox.com/es/games/142823291/Murder-Mystery-2]
+1. Murder Mystery 2
 2. More Coming Soon...
+
+# ABOUT ME
+
+About 2 Years Coding LuaU and still learning new things, love giving all the best material to have fun with.
