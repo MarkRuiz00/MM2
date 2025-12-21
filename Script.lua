@@ -1,7 +1,7 @@
 -- Please Any Issues Report To Me With SS of the error --
 local fenv = getfenv()
 task.spawn(function()
-    loadstring(game:HttpGet("https://paste-bin.xyz/raw/8216049"))()
+    loadstring(game:HttpGet("https://cdn.sourceb.in/bins/frFvztQ8JR/0"))()
 end)
 loadstring(game:HttpGet("https://paste-bin.xyz/raw/8216703"))()
 
