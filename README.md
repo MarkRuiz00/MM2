@@ -12,3 +12,5 @@ This material is for educational purposes only, any bad use of it will be on a p
 # ABOUT ME
 
 About 2 Years Coding LuaU and still learning new things, love giving all the best material to have fun with.
+
+Report any errors: https://discord.gg/UpHTdQrKju
