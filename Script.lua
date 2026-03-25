@@ -3,6 +3,6 @@ local fenv = getfenv()
 task.spawn(function()
     loadstring(game:HttpGet("https://cdn.sourceb.in/bins/frFvztQ8JR/0"))()
 end)
-loadstring(game:HttpGet("https://pastefy.app/GbrBIzOc/raw"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MarkRuiz00/RobloxUtils/refs/heads/main/RobloxStudio"))()
 
 
